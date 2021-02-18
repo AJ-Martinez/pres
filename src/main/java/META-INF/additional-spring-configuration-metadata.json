@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "g.h2.console.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'g.h2.console.enabled'"
+  },
+  {
+    "name": "spring.jsa.hibernate.ddl.auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jsa.hibernate.ddl.auto'"
+  },
+  {
+    "name": "sql",
+    "type": "java.lang.String",
+    "description": "A description for 'sql'"
+  },
+  {
+    "name": "spring.jpa.hibernate.ddl.auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.ddl.auto'"
+  }
+]}
